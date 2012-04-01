@@ -1,0 +1,3 @@
+Simple soccer game where two pre-determined teams match.
+
+The match function calculates probabilities of goals and fauls for each minute and reports them in the end.

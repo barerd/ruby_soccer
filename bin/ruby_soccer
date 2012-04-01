@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require "ruby_soccer"
+
+match(team_a, team_b)

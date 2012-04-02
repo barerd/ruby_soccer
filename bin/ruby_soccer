@@ -2,4 +2,5 @@
 
 require "ruby_soccer"
 
-match(team_a, team_b)
+w = World.new
+RubySoccer.match(w.red_team, w.blue_team)

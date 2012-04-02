@@ -1,6 +1,8 @@
 # RubySoccer
 
-TODO: Write a gem description
+Simple soccer game where two pre-determined teams match.
+The match function calculates probabilities of goals and
+fauls for each minute and reports them in the end.
 
 ## Installation
 
@@ -18,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Just type "ruby_soccer" on the console and voila.
 
 ## Contributing
 
